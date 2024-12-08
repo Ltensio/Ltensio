@@ -1,7 +1,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andrea-lattanzio1/)
 
 <h1 align="center">Hi 👋, I'm Andrea</h1>
- 🌱 I’m currently learning Angular and Node.js (Express and NestJS))
+ 🌱 I’m developer using Angular and Node.js (Express and NestJS))
 
  📫 How to reach me **andrealattanziodedona@gmail.com**
 
